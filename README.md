@@ -1,6 +1,6 @@
 # sqlite3_reverse
 
-This is a small extension to add the feature of reversing string in sqplite3
+This is a small extension to add the feature of reversing string in sqlite3
 
 ## strrev()
 
